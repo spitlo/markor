@@ -175,7 +175,7 @@
     <string name="align_bottom">Botten</string>
     <string name="align_center">Mitten</string>
     <string name="center_text">Centrera text</string>
-    <string name="center_text_desc">Redigera text i skärmens mitt</string>
+    <string name="center_text_desc">Centrera texten i redigeringsläget</string>
     <string name="clipboard">Urklipp</string>
     <string name="existing_document">Välj ett befintligt dokument</string>
     <string name="open_source_licenses">Öppen källkod-licenser</string>
@@ -192,4 +192,8 @@
     <string name="project_team">Projektteam</string>
     <string name="project_license">Projektets licens</string>
     <string name="source_code">Källkod</string>
+    <string name="line_spacing_in_percent">Mellanrum mellan rader i procent</string>
+    <string name="textmodule_bar_spacing">Luft mellan textmoduler</string>
+    <string name="horizontal_spacing_of_actions">Mellanrum mellan knapparna i verktygsfältet för textmoduler</string>
+    <string name="help_translating_this_app">Översätt appen till andra språk</string>
 </resources>
