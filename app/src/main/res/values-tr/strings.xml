@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="settings">Ayarlar</string>
     <string name="light">Açık</string>
     <string name="dark">Koyu</string>
@@ -192,6 +192,8 @@
     <string name="align_top">Üst</string>
     <string name="align_bottom">Alt</string>
     <string name="align_center">Merkez</string>
+    <string name="textmodule_bar_spacing">Metin modülleri arasındaki boşluk</string>
+    <string name="horizontal_spacing_of_actions">Eylemlerin yatay aralığı</string>
 
     <string name="center_text">Metni ortala</string>
     <string name="center_text_desc">Metni ekranın ortasında düzenleyin</string>
